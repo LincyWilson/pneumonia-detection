@@ -54,4 +54,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Ready to Dive Deeper? 
 
-Explore the codebase to delve into the intricacies of the project!
+Explore the codes to delve into the intricacies of the project!
