@@ -17,6 +17,7 @@ This project tackles the challenge of pneumonia detection using the power of Con
    - To ensure the model's learning prowess, we meticulously preprocess the data using:
       - **Image Augmentation:** Techniques like rotation, scaling, and flipping are employed to diversify the dataset and prevent overfitting.
       - **Normalization:** Pixel values are normalized for better convergence during training.
+      <img width=256 src=assets/xrayimages.png />
 
 3. **Model Selection:** 
    - Two CNN models, InceptionV3 and VGG16, go head-to-head. InceptionV3 emerges victorious due to:
