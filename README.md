@@ -3,12 +3,12 @@
 
 This project tackles the challenge of pneumonia detection using the power of Convolutional Neural Networks (CNNs) and Flask web development.  
 
-**The Mission:** 
+## The Mission 
 
 - Build a web application that accepts chest X-ray image uploads.
 - Accurately predict the presence or absence of pneumonia in the uploaded image.
 
-**The Strategy:** ⚔️
+## The Strategy ⚔️
 
 1. **Data Acquisition:** 
    - We leverage a labeled dataset of chest X-ray images, meticulously categorized between pneumonia and normal cases.
@@ -35,7 +35,7 @@ This project tackles the challenge of pneumonia detection using the power of Con
       - **HTML Templates:** Design the user interface for image upload and prediction display.
       - **Flask Routes & Functions:** Handle user interaction, image processing, and prediction rendering.
 
-**The Outcome:** 
+## The Outcome
 | Model Architecture | Train Data Epochs (Early Stopping) | Prediction Result |
 |---|---|---|
 | Inception V3 | 15 | True Positive (TP) |
@@ -48,6 +48,10 @@ High False Positive (FP) Rate: This suggests the model might be overfitting and 
 
 In conclusion, a web application that empowers users to upload chest X-ray images and receive predictions on the presence of pneumonia. This is a valuable tool to assist in the diagnosis process, but it's crucial to consult a healthcare professional for definitive medical advice.
 
-**Ready to Dive Deeper?** 
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Ready to Dive Deeper? 
 
 Explore the codebase to delve into the intricacies of the project!
